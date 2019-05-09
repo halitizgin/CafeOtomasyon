@@ -30,7 +30,7 @@ https://www.kodevreni.com/4596-restorancafe-otomasyon/
 
 Proje GitHub üzerinde olduğundan dolayı bir çok dosya .gitignore dosyasına takılmış durumda. Proje Clone yaptığınızda hemen açılmayabilir. Örneğin veritabanı dosyası içinde mevcut değil.
 
-Veritabanı dosyası, projenin tam hali ve projenin ayrıntılı olarak anlatıldığı sunum dosyalarını indirmek için:
+Veritabanı dosyası, projenin tam hali ve projenin ayrıntılı olarak anlatıldığı sunum dosyasını indirmek için:
 
 https://www.kodevreni.com/4596-restorancafe-otomasyon/
 
