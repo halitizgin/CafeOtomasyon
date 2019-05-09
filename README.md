@@ -1,6 +1,6 @@
 # Ön Not
 
-Merhaba arkadaşlar, bu konuda üniversiteden mezun olmadan önce geliştirdiğim bir projeyi sizlere tanıtmak istiyorum. Geliştireli biraz zaman geçmiş olmasına rağmen ancak geliştirmek ve paylaşmak için vakit buldum. Bazı yazılımcıların işini zorlaştıran durumları mevcuttu. Bunları çözerek sizlere kaynak kodlarıyla birlikte paylaşma kararı aldım.
+Merhaba arkadaşlar, bu konuda üniversiteden mezun olmadan önce geliştirdiğim bir projeyi sizlere tanıtmak istiyorum. Geliştireli biraz zaman geçmiş olmasına rağmen, ancak geliştirmek ve paylaşmak için vakit buldum. Bazı yazılımcıların işini zorlaştıran durumları mevcuttu. Bunları çözerek sizlere kaynak kodlarıyla birlikte paylaşma kararı aldım.
 
 # Cafe Otomasyon Bilgiler
 
