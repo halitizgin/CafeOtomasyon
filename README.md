@@ -10,6 +10,10 @@ Uygulamaya geçecek olursak; Restoran veya Cafe'ler için tasarlanmış bir otom
 
 Bu uygulama tamamen yazılımcı arkadaşların konu hakkındaki bilgisini arttırmak için tasarlanmıştır. Herhangi bir ticari amaç gütmemektedir. Bu sebeple ticari olarak kullanılmasına da izin vermemekteyim. Tabii bu yazılımı tamamen öğrenmek amaçlı istediğiniz gibi geliştirmekte özgürsünüz. Paylaşılması(kaynak belirterek) da serbesttir.
 
+# Uygulamada Kullanılan Eklentiler
+
+Bunifu Framework
+
 # Uygulama İçi Resimler
 
 ![Giriş Ekranı](https://www.kodevreni.com/uploads/monthly_2019_05/Screenshot_42.png.5b83d9ce93b4b2aea9f30fb5a981a16e.png "Giriş Ekranı")
