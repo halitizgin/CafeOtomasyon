@@ -13,3 +13,25 @@ Bu uygulama tamamen yazılımcı arkadaşların konu hakkındaki bilgisini artt�
 # Uygulama İçi Resimler
 
 ![Giriş Ekranı](https://www.kodevreni.com/uploads/monthly_2019_05/Screenshot_42.png.5b83d9ce93b4b2aea9f30fb5a981a16e.png "Giriş Ekranı")
+
+![Garson Ekranı](https://www.kodevreni.com/uploads/monthly_2019_05/Screenshot_43.thumb.png.b382bbdd4f90b772bddf3b8302e7b09f.png "Garson Ekranı")
+
+![Kasa Ekranı](https://www.kodevreni.com/uploads/monthly_2019_05/Screenshot_44.png.1c1ca0816cdfd6ebfd4610818b9b3f16.png "Kasa Ekranı")
+
+![Mutfak Ekranı](https://www.kodevreni.com/uploads/monthly_2019_05/Screenshot_45.png.ed8defe198a9ee6ca58f633349f2ca35.png "Mutfak Ekranı")
+
+![Yönetici Ekranı](https://www.kodevreni.com/uploads/monthly_2019_05/Screenshot_46.png.a76a3e9a4848638726408a1060debee3.png "Yönetici Ekranı")
+
+Web Site Konu Linki:
+
+https://www.kodevreni.com/4596-restorancafe-otomasyon/
+
+# Dip Not
+
+Proje GitHub üzerinde olduğundan dolayı bir çok dosya .gitignore dosyasına takılmış durumda. Proje Clone yaptığınızda hemen açılmayabilir. Örneğin veritabanı dosyası içinde mevcut değil.
+
+Veritabanı dosyası, projenin tam hali ve projenin ayrıntılı olarak anlatıldığı sunum dosyalarını indirmek için:
+
+https://www.kodevreni.com/4596-restorancafe-otomasyon/
+
+adresinden gerekli bağlantılara ulaşarak indirebilirsiniz.
