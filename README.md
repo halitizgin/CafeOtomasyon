@@ -4,7 +4,7 @@ Merhaba arkadaşlar, bu konuda üniversiteden mezun olmadan önce geliştirdiği
 
 # Cafe Otomasyon Bilgiler
 
-Uygulamaya geçecek olursak; Restoran veya Cafe'ler için tasarlanmış bir otomasyon yazılımıdır. Bir restoran ve cafe'de olması gerekebilecek bir çok özelliği düşündüm ama tabii illaki bir çok eksiği mevcuttur. Bunun sebebi ise uygulama tam anlamıyla pratik açıdan kullanılması için tasarlanmamıştır. Çünkü Access veritabanı kullanmaktadır. Bu nedenle farklı cihazlarla senkronize olarak çalışmaz. Farklı cihazlarla senkronize çalışması için SQL Server, MySQL ya da MongoDB gibi seçenekleri kullanabilirsiniz.
+Restoran veya Cafe'ler için tasarlanmış bir otomasyon yazılımıdır. Bir restoran ve cafe'de olması gerekebilecek bir çok özelliği düşündüm ama tabii illaki bir çok eksiği mevcuttur. Bunun sebebi ise uygulama tam anlamıyla pratik açıdan kullanılması için tasarlanmamıştır. Çünkü Access veritabanı kullanmaktadır. Bu nedenle farklı cihazlarla senkronize olarak çalışmaz. Farklı cihazlarla senkronize çalışması için SQL Server, MySQL ya da MongoDB gibi seçenekleri kullanabilirsiniz.
 
 # Not
 
